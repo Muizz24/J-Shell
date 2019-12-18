@@ -1,0 +1,9 @@
+Class Name: Parser
+Parent Class(if any):
+Subclasses(if any):
+
+Responsibilities:
+* Takes in characters and converts them into comprehensible lines of text
+
+Collaborators:
+* Command

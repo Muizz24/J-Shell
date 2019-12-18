@@ -1,0 +1,11 @@
+Class Name: TreeOfFS
+Parent Class(if any): Command
+Subclasses(if any): 
+
+Responsibilities:
+* Prints out a tree starting from the root directory and displaying all the contents of the FileSystem
+
+
+Collaborators:
+* Directory
+* FileSystem

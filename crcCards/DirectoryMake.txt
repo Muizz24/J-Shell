@@ -1,0 +1,10 @@
+Class Name: DirectoryMake
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities:
+* Create a place to hold files and other directories
+
+Collaborators:
+* Directory
+* FileSystem

@@ -1,0 +1,8 @@
+Class Name: Exit
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities: 
+* Exits and closes the current program
+
+Collaborators: 

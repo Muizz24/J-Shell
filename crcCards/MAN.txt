@@ -1,0 +1,8 @@
+Class Name: Man
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities:
+* Print documentation of a given command
+
+Collaborators:

@@ -1,0 +1,9 @@
+Class Name: Directory
+Parent Class(if any):
+Subclasses(if any):
+
+Responsibilities:
+* Holder which has files are/or other directories stored inside
+
+Collaborators:
+* File

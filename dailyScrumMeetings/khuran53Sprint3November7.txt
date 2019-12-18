@@ -1,0 +1,20 @@
+
+What did I work on in the last three days?
+	- Finished implementing the printDocumentation for all the commands so that
+    Man works.
+    - Made sure that Validator finds all of the possible exceptions and gets
+    the correct corresponding ExceptionHandler class.
+    - Updated Exit so that Exit extends command and can run_command and 
+    print_documentation.
+    - Changed Parser so that the commands will still run even if the user
+     doesn't input it in all lowercase.
+    - Finished commenting, polishing, and adding honour code.
+	
+	
+
+What do I plan to work in the next three days?
+	- Nothing
+	
+
+Am I blocked on anything?
+	- Not currently blocked anywhere.

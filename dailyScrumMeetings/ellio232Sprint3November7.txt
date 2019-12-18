@@ -1,0 +1,6 @@
+What did I work on in the last 3 days?
+	- Tweaked implementation of classes
+	- Created ExceptionHandler methods
+	- Create javadocs for DirectoryPush, DirectoryPop, DirectoryChange and
+	DirectoryStack
+	- Created test cases for DirectoryChange and DirectoryPush

@@ -1,0 +1,9 @@
+Class Name: Saver
+Parent Class(if any): Command
+Subclasses(if any): 
+
+Responsibilities:
+* Saves the contents of the current FileSystem into A File indicated by the given name
+
+
+Collaborators:

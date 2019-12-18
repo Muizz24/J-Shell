@@ -1,0 +1,10 @@
+a) What did I work on in the last four days? 
+	- Completed e1 and e2 from the Sprint2Backlog
+
+b) What do I plan to work in the next three days?
+	- Complete f1 and f2 from the Sprint2Backlog
+
+c) Am I blocked on anything?
+	- I am fully capable of completing the current tasks
+	
+*edit in part c), I can't complete echo file until the validation class is complete

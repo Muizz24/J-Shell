@@ -1,0 +1,11 @@
+Class Name: ViewFile
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities:
+* Shows the contents of a specified file(s)
+
+Collaborators:
+* File
+* FileSystem
+* Directory

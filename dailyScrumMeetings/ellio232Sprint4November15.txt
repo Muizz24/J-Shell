@@ -1,0 +1,14 @@
+What did I work on in the last 3 days?
+	- Implementation of Copy class
+	- Comments for Copy
+	- Tweaking run_command for certain classes in line with new > OUTFILE and 
+	  >> OUTFILE redirection
+
+What do I plan to work on in the next 3 days?
+	- Create and finish implementation for Move classes
+	- Javadocs for Copy and Move classes
+	- Possible work on test cases
+
+Am I blocked on anything?
+	- As of right now, nothing is stopping me from completing my
+	  resposibilities

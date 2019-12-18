@@ -1,0 +1,10 @@
+Class Name: JShell
+Parent Class(if any):
+Subclasses(if any):
+
+Responsibilities: 
+* platform for users to provide input
+
+Collaborators:
+* Translator
+* Parser

@@ -1,0 +1,11 @@
+What did I work on in the last 3 days?
+	- Completed implementation of DirectoryPush
+	- Made comments for DirectoryPush
+	- Discussed implementation of various class with my group
+
+What do I plan to work on in the next 3 days?
+	- Create and complete code for DirectoryPop
+	- Possibly start on test cases for various command inputs
+
+Am I blocked on anything?
+	- Not as of right now, I can proceed with my responsibilities

@@ -1,0 +1,13 @@
+
+
+What did I work on in the last three days?
+		- Worked on DirectoryMake
+		- Added new method 'path_to_dir' to FileSystem
+		- Fixed and added crc cards with team
+
+What do I plan to work in the next three days?
+		- Work on DirectoryList
+		- Complete tasks b-1 and b-2 on Sprint2Backlog.txt
+
+Am I blocked on anything?
+		- Not anything at the moment. Only need Jshell done for testing purposes.

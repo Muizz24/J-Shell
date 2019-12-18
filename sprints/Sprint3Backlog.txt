@@ -1,0 +1,45 @@
+//Sprint 1 Backlog.
+October 31 to November 7
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I should be prompted for input until I exit the program.
+b) As a user, I should be able to see the documentation for a desired command.
+c) As a user, I should be able to store, in a mock file system, an older directory or directories, returning to the most recent directory stored whenever I want. 
+
+Specific tasks to be accomplished:
+a-1. (JShell) Begin coding the structure of the command line interpreter. *Completed in Sprint 2*
+a-2. (JShell) Have the shell continually prompt the user for input. *Completed in Sprint 2*
+a-3. (Parser) Parse the user input for proper keywords and variables. *Completed in Sprint 2*
+a-4. (Exit) End continuous input prompt from user when 'exit' is inputed. *Completed in Sprint 2*
+a-5. (Validator) Validate the user input by making sure that the given variables are correctly formatted. *Partially completed in Sprint 2*
+a-6. (JShell) Change the code so that it runs the loop to ask user for input in JShell rather than Parser.
+a-7. (Validator) Shorten the Validator code to fit the 30 line limit, but make sure it still works with any final changes that are made to other classes.
+a-8. (ExceptionHandler) Set up correct exception handling regarding incorrect file/directories/input for all commands.
+b-1. (Man) Set up all of the required information for all of the command classes.
+b-2. (Man) Have the code print out the correct corresponding information according to what command name the user inputs.
+d-1. (DirectoryStack) Create a mock file which directories can be stored in. *Completed in Sprint 2*
+d-2. (DirectoryStack) Allow Storing of directories to the mock file. *Completed in Sprint 2*
+d-3. (DirectoryPush) Stores directories into the mock file. *Completed in Sprint 2*
+d-4. (DirectoryPush) Set the current working directory to the indicated directory. *Completed in Sprint 2*
+d-5. (DirectoryPop) Remove directory from front of DirectoryStack.
+d-6. (DirectoryPop) Call cd on directory that has been removed.
+
+These tasks are assigned as follows:
+
+User: Millan Singh Khurana
+Tasks: a-5, a-6, a-7, a-8, b-1, b-2
+
+User: Nicholas Michael Gibson Elliott
+Tasks: d-5, d-6
+
+User: Anthony Alaimo
+Tasks:
+
+User: Muizz Uddin Ahmed
+Tasks:
+
+=======Edit=======
+*Forgot to commit sprint backlog for october 30th
+*Muizz worked on improving previously worked on classes, implementing the command class and exception handling
+*Anthony worked on improving previously worked on classes, implementing the command class and exceptions handling
+*Nick worked on improving previously worked on classes, implementing the command class and exception handling

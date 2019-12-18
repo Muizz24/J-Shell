@@ -1,0 +1,14 @@
+What did I work on in the last 3 days?
+	- Fixed problems with implementation of Copy and Move classes
+	- Adjusted test cases for DirectoryChange and DirectroyPush
+	  as needed
+	- Completed test cases for DirectoryPop
+
+What do I plan to work on in the next 3 days?
+	- Javadocs for Move and Copy classes
+	- Test cases for all personal unfinished classes (DirectoryStack, Copy
+	  and Move)
+
+Am I blocked on anything?
+	- I do not believe anything is standing in the way of me completing my
+	  responsibilities

@@ -1,0 +1,53 @@
+//Sprint 1 Backlog.
+October 24 to October 30
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I should be prompted for input until I exit the program.
+b) As a user, I should be able to view directory's content. 
+c) As a user, I should be able to view exactly where the current directory is located.
+d) As a user, I should be able to store, in a mock file system, an older directory or directories, returning to the most recent directory stored whenever I want. 
+e) As a user, I should be able to append or overwrite file(s) with text.
+f) As a user, I should be able to create a file that contains a given string or output that string.    
+
+Specific tasks to be accomplished:
+a-1. (JShell) Begin coding the structure of the command line interpreter. *Completed in Sprint 1*
+a-2. (JShell) Have the shell continually prompt the user for input. *Completed in Sprint 1*
+a-3. (Translator) Parse the user input for proper keywords and variables. *Partially completed in Sprint 1, design changes.*
+a-4. (Exit) End continuous input prompt from user when 'exit' is inputed. *Partially completed in Sprint 1, design changes*
+a-5. (Validation) Validate the user input by making sure that the given variables are correctly formatted. 
+b-1. (DirectoryList) Find if it is a file or directory.
+b-2. (DirectoryList) Print the contents of file or directory in the correct format.
+c-1. (DirectoryPath) Get the current directory.
+c-2. (DirectoryPath) Find the parent(s) of the current directory.
+c-3. (DirectoryPath) Make a string representation of the current path and print it.
+d-1. (DirectoryStack) Create a mock file which directories can be stored in.
+d-2. (DirectoryStack) Allow Storing of directories to the mock file.
+d-3. (DirectoryPush) Stores directories into the mock file.
+d-4. (DirectoryPush) Set the current working directory to the indicated directory.
+e-1. (FileEcho) Append the indicated String to the indicated file.
+e-2. (FileEcho) Overwrite the indicated file's contents with the indicated string.
+f-1. (FileEcho) Create a file which contains an indicated string.
+f-2. (FileEcho) Output the indicated string if no file is given.
+
+
+These tasks are assigned as follows:
+
+User: Millan Singh Khurana
+Tasks: a-3, a-4, a-5
+
+User: Nicholas Michael Gibson Elliott
+Tasks: d-1, d-2, d-3, d-4
+
+User: Anthony Alaimo
+Tasks: e-1, e-2, f-1, f-2
+
+User: Muizz Uddin Ahmed
+Tasks: b-1, b-2, c-1, c-2, c-3
+
+======EDITS======
+1.) Added user story g): "As a user, I can view all previous inputs or desired number of recent input(s)".
+2.) Added tasks g-1 : (CommandHistory) Print all of user history.
+                g-2 : (CommandHistory) Print user history from most recent to a specific desired limit.
+3.) Changed Translator class name to Parser.
+    Changed Validation class name to Validator.
+4.) Assigned tasks g-1, g-2 to Muizz.

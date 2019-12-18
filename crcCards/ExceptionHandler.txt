@@ -1,0 +1,8 @@
+Class Name: ExceptionHandler
+Parent Class(if any):
+Subclasses(if any):
+
+Responsibilities:
+* Responsible for storing and returning error messages
+
+Collaborators:

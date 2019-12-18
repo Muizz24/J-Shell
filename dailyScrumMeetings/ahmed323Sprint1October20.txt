@@ -1,0 +1,13 @@
+
+
+What did I work on in the last three days?
+		- Worked on Directory class
+		- Worked on FileSystem
+		- Created helper functions to fulfill other team member needs in FileSystem
+
+What do I plan to work in the next three days?
+		- Add javadocs on FileSystem and Directory classes
+		- Complete tasks d-1 and d-2 on sprint1backlog.txt
+
+Am I blocked on anything?
+		- Not currently. Team planning provided efficient coding with no roadblocks

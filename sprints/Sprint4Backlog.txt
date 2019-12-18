@@ -1,0 +1,58 @@
+//Sprint 4 Backlog.
+November 12 to November 18
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I should be able to save my command's result into a file named by my preference.
+b) As a user, I should be able to see all subdirectories in my given directory.
+c) As a user, I should be able to move or copy my directory somewhere else in the file system.   
+d) As a user, I should be able to view the contents of multiple files at the same time.
+e) As a user, I should be able to retrieve a file from a given URL
+f) As a user, I should be able to save my work and access it later, at anytime.
+g) As a user, I should be able to find where my files or directories are located.
+h) As a user, I should be able to view the entire file system in the format of a tree. 
+
+
+Specific tasks to be accomplished:
+a-1. (RedirectSystem) Create skeleton for RedirectSystem.
+a-2. (RedirectSystem) Ensure every command or exception goes through the RedirectSystem before printing to console.
+a-3  (RedirectSystem) Add overwriteOutFile and appendOutFile methods into RedirectSystem.
+b-1  (DirectoryList) Check if -r or -R has been written before paths before calling recursive LS.
+b-2  (DirectoryList) Recursively print given path's sub-directories when given -r or -R.
+c-1. (Copier) Begin coding the Copier class.
+c-2. (Copier) Locate OLDPATH and NEWPATH in the file system.
+c-3. (Copier) Create a copy of OLDPATH inside NEWPATH.
+c-4. (Copier) Design the Copier class to collaborate with the Mover class.
+c-5. (Mover) Design base code for the Mover class.
+c-6. (Mover) Remove OLDPATH from its original location and transport it to the indicated NEWPATH.
+d-1. (ViewFile) Redesign the ViewFile class to be able to take multiple file inputs at once.
+d-2. (ViewFile) Separate error files from correct files and make sure invalid files don't crash the code.
+d-3. (ViewFile) Check that exceptions are correctly implemented in the ViewFile class.
+d-4. (ViewFile) Design test cases and code test class for the ViewFile class.
+e-1. (Validator) Check whether the given URL contains a valid file.
+e-2. (Getter) Access the file at the URL and copy its contents.
+e-3. (Getter) Create a new file (with the correct name) that contains the copied contents, in the current working directory.
+f-1. (Validator) Check whether the given path is a valid location on the user's laptop, in which the file can be saved.
+f-2. (Saver) Copy the command history list from the current file system.
+f-3. (Saver) Create a file on the user's laptop (at the desired path), that contains the copied command history list.
+f-4. (JShell) Ensure that a filesystem has not already been created, otherwise block the user from using Load.
+f-5. (Validator) Check whether the given path is a valid save file.
+f-6. (Loader) Access the file at the given path and copy the command list it contains.
+f-7. (Loader) Create a new filesystem and execute all of the commands (from the copied command list).
+g-1  (CommandFind) Find out if Im looking for a File or Directory.
+g-2  (CommandFind) Check if F/D exists in given path(s) by comparing name.
+h-1  (TreeOfFS) Traverse FileSystem starting at root, Concatenating each directory name to a STRING.
+h-2  (TreeOfFS) Increase Indent level everytime subdirectory contains more directories.
+
+These tasks are assigned as follows:
+
+User: Millan Singh Khurana
+Tasks: e-1, e-2, e-3, f-1, f-2, f-3, f-4, f-5, f-6, f-7
+
+User: Nicholas Michael Gibson Elliott
+Tasks: c-1, c-2, c-3, c-4, c-5, c-6
+
+User: Anthony Alaimo
+Tasks: d-1, d-2, d-3, d-4
+
+User: Muizz Uddin Ahmed
+Tasks: a-1, a-2, a-3, b-1, b-2, g-1, g-2, h-1, h-2

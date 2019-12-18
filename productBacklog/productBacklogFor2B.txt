@@ -1,0 +1,29 @@
+-------------------------------------------------------|------------|
+                      Backlog Item                     |  Estimate  |
+                                                       |   (hrs)    |
+-------------------------------------------------------|------------|
+As a user, I should be able to save my command's result|     6      |
+into a file named by my preference.                    |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to see all subdirectories  |     4      |
+in my given directory.                                 |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to move or copy my         |     5      |
+directory somewhere else in the file system.           |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to view the contents of    |     4      |
+multiple files at the same time.                       |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to retrieve a file from a  |     4      |
+given URL.                                             |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to save the current file   |     6      |
+system and access it later, at anytime.                |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to find where my files or  |     4      |
+directories are located.                               |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to view the entire file    |     4      |
+system in the format of a tree.                        |            |
+-------------------------------------------------------|------------|
+

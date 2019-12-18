@@ -1,0 +1,13 @@
+
+
+What did I work on in the last three days?
+		- Added JavaDocs and Comments for tree, L[-R], find and RedirectSystem
+		- Polish code more for better software design
+		- Removed redirection being embedded in echo 
+
+What do I plan to work in the next four days?
+		- Make Test Cases for most commands and Redirect's static methods
+		- Removed redirection being embedded in echo and put it in RedirectSystem
+
+Am I blocked on anything?
+		- Not anything at the moment. Group is at a good pace :)

@@ -1,0 +1,12 @@
+
+
+What did I work on in the last three days?
+		- Fixed and polished my code from previous sprints
+		- Added Command and ExceptionHandler class and its abstract methods
+
+What do I plan to work in the next four days?
+		- Make test cases for the overall code and polish more
+		- Add more exceptions to the ExceptionHandler
+
+Am I blocked on anything?
+		- Not anything at the moment.

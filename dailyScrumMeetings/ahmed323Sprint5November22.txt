@@ -1,0 +1,12 @@
+
+
+What did I work on in the last three days?
+		- Make Test Cases for most commands
+		- Removed redirection being embedded in echo and put it in RedirectSystem
+
+What do I plan to work in the next four days?
+		- Make Test Cases for Redirect's static methods.
+		- Polish and clean code overall.
+
+Am I blocked on anything?
+		- Group is lacking on some work but overall progress is okay

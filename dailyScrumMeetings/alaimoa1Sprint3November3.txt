@@ -1,0 +1,11 @@
+a) What did I work on in the last four days? 
+	- Made some small changes to echo and viewfile classes, well also implementing the command class inside them
+	- Brainstormed some test cases and exceptions
+
+b) What do I plan to work in the next three days?
+	- check for any final errors with the code
+	- Do testing on the program
+	- make sure all code is sufficiently commented
+
+c) Am I blocked on anything?
+	- I am fully capable of completing the current tasks

@@ -1,0 +1,8 @@
+Class Name: CommandHistory
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities:
+* Displays commands that have been used by the user
+
+Collaborators:

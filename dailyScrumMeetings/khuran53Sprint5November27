@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+	- Commented Getter and set it up so that it works without Echo.
+	- Commented Saver
+	- Commented Loader got it to work with the new runCommand system.
+	- Changed getter so that it doesn't always create a new file even if the
+	URL doesn't work
+	
+
+What do I plan to work in the next three days?
+	- Nothing as the assignment is finished.
+	
+
+Am I blocked on anything?
+	- Not currently blocked anywhere.

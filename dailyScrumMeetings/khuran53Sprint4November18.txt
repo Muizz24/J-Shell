@@ -1,0 +1,18 @@
+What did I work on in the last three days?
+	- Finished setting up Saver so that it gets all of the command history, and 
+	saves it as a file at the desired path on the user's laptop (regardless of
+	whether it is a mac or windows, or whether it is not the Desktop - which
+	were the problems I encountered last scrum).
+	- Created and set up Loader so that it retrieves and reads the file at
+	the desired path on the user's computer.
+	
+	
+
+What do I plan to work in the next three days?
+	- Comment Getter and set it up so that it works with Echo.
+	- Comment Saver and test it.
+	- Comment Loader get it to work with the new runCommand system.
+	
+
+Am I blocked on anything?
+	- Not currently blocked anywhere.

@@ -1,0 +1,13 @@
+
+
+What did I work on in the last three days?
+		- Fixed and polished code with team.
+		- Added Exceptions and Test Cases with JUnit.
+		- Redid some of each part of the code with Team.
+		- Added honour code to all test cases and classes
+
+What do I plan to work in the next four days?
+		- Prepare for Assignment 2B.
+
+Am I blocked on anything?
+		- No.

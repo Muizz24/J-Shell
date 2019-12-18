@@ -1,0 +1,8 @@
+Class Name: File
+Parent Class(if any):
+Subclasses(if any):
+
+Responsibilities: 
+* To store data and/or information used by a program, which can be modified.
+
+Collaborators:

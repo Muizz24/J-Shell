@@ -1,0 +1,14 @@
+
+What did I work on in the last three days?
+	- Edited JShell so that the loop that requests input from the user is run
+	from the Translator class instead.
+	- Created and started working on the Translator class.
+    - Finished the exit class.
+    
+
+What do I plan to work in the next three days?
+    - Finish Translator.
+    - Create and finish Validator.
+
+Am I blocked on anything?
+	- Not currently blocked anywhere.

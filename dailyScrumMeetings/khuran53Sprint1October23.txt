@@ -1,0 +1,15 @@
+
+What did I work on in the last three days?
+    - Figured out a new design format which changes the way we parse user input,
+    breaking it down into a translator and validator class.
+    
+
+What do I plan to work in the next three days?
+    - Finish JShell.
+    - Implement exit as its own class.
+    - Begin working on the code for translator and validator classes.
+
+Am I blocked on anything?
+	- Not currently blocked anywhere, just have been a bit busy with other 
+	courses and commitments and we changed the design today so there was no
+	need for me to change the code I had previously worked from.

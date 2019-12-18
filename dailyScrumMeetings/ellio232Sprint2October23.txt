@@ -1,0 +1,11 @@
+What did I work on in the last 3 days?
+	- corrected implementation of DirectoryChange based on the up to date implementation of other classes
+	- discussed and finalized CRC cards with team members
+
+What do I plan to work on in the next 3 days?
+	- create a DirectoryStack which will be necessary for DirectoryPush and DirectoryPop classes
+	- allow pushing to and popping from a stack created in DirectoryStack
+	- possibly start on implementation of the DirectoryPush class
+
+Am I blocked on anything?
+	- no, nothing is preventing me from starting on my necessary tasks

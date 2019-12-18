@@ -1,0 +1,19 @@
+
+What did I work on in the last three days?
+	- Created and set up Getter so that it can retrieve the data from a file
+	at a given URL.
+	- Created and set up Saver so that it gets the command history, and saves 
+	it as a file at the desired path on the user's laptop.
+	- Edited Command and JShell so that they allow for the addition of Getter
+	and Setter
+	
+	
+
+What do I plan to work in the next three days?
+	- Comment and finish Getter.
+	- Comment Saver.
+	- Create and finish Loader.
+	
+
+Am I blocked on anything?
+	- Not currently blocked anywhere.

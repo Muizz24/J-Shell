@@ -1,0 +1,11 @@
+Class Name: DirectoryPush
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities:
+* Puts the current directory in a mock file
+
+Collaborators:
+* FileSystem
+* Directory
+* DirectoryStack

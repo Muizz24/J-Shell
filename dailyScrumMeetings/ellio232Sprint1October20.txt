@@ -1,0 +1,13 @@
+What did I work on in the last 3 days?
+	- worked on ChangeDirectory implementation for
+	  relative and full paths
+	- discussed with team on Directory implementation
+
+What do I plan to work on in the next 3 days?
+	- ChangeDirectory implementation for parent path (..)
+	- Handling of invalid paths for ChangeDirectory
+	- possibly improve current structure of ChangeDirectory
+	Edit : - add javadocs to ChangeDirectory class
+
+Am I blocked on anything?
+	- No, nothing that needs to be completed for me to continue my work

@@ -1,0 +1,19 @@
+
+What did I work on in the last three days?
+	- Created the Man class.
+	- Made sure Validator works properly with most commands exception handling.
+	- Redesigned Validator, Parser, and JShell to work with the new Command 
+	casting.
+	
+	
+
+What do I plan to work in the next three days?
+    - Finish implementing the printDocumentation for all the commands so that
+    Man works.
+    - Make sure that Validator finds all of the possible exceptions and gets
+    the correct corresponding ExceptionHandler class.
+
+    
+
+Am I blocked on anything?
+	- Not currently blocked anywhere.

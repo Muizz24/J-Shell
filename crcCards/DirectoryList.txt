@@ -1,0 +1,11 @@
+Class Name: DirectoryList
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities:
+* Displays all the files/directories in the current directory
+
+Collaborators:
+* Directory
+* File
+* FileSystem

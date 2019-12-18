@@ -1,0 +1,12 @@
+Class Name: Validation
+Parent Class(if any):
+Subclasses(if any):
+
+Responsibilities:
+* validate if files, directories, commands, or paths exist
+
+Collaborators:
+* FileSystem
+* ExceptionHandler
+* Command
+* RedirectionSystem

@@ -1,0 +1,9 @@
+a) What did I work on in the last four days? 
+	- Completed f1 and f2 from the Sprint2Backlog
+
+b) What do I plan to work in the next three days?
+	- Brainstorm test cases 
+	- Brainstorm exceptions for ExceptionHandler class
+
+c) Am I blocked on anything?
+	- I am fully capable of completing the current tasks

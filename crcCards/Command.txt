@@ -1,0 +1,8 @@
+Class Name: Command
+Parent Class(if any):
+Subclasses(if any): CommandFind
+
+Responsibilities:
+* handles command execution and documentation
+
+Collaborators:

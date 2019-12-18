@@ -1,0 +1,12 @@
+
+
+What did I work on in the last three days?
+		- Worked on DirectoryList and DirectoryPath
+		- Added new method 'trace_path' to FileSystem
+		- Fixed and added crc cards with team
+
+What do I plan to work in the next three days?
+		- Work on Command History and clean + test DirectoryList/Path.
+
+Am I blocked on anything?
+		- Not anything at the moment.

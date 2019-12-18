@@ -1,0 +1,13 @@
+
+
+What did I work on in the last three days?
+		- Made Test Cases for all commands
+		- Fixed and cleaned multiple things in the actual code
+		- Created a mock system for testing.
+
+What do I plan to work in the next four days?
+		- Assignment 3
+		- CSCB36 final exam
+
+Am I blocked on anything?
+		- Nope.

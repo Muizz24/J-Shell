@@ -1,0 +1,11 @@
+Class Name: Mover
+Parent Class(if any): Command
+Subclasses(if any): 
+
+Responsibilities:
+* Moves a given path to an indicated directory. This path can be just a file or just a directory
+
+
+Collaborators:
+* Directory
+* File

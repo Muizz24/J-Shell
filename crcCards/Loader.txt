@@ -1,0 +1,10 @@
+Class Name: Loader
+Parent Class(if any): Command
+Subclasses(if any): 
+
+Responsibilities:
+* To load the contents of an indicated file that had previously been saved
+
+Collaborators:
+* CommandHistory
+* Validator

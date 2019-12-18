@@ -1,0 +1,6 @@
+What did I work on in the last 3 days?
+	- Javadocs for Move and Copy classes
+	- Slight fixes of implementation for Copy and Move, as well as some other
+	  classes
+	- Test cases for all personal unfinished classes (DirectoryStack, Copy
+	  and Move)

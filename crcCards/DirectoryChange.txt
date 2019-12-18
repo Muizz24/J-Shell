@@ -1,0 +1,10 @@
+Class Name: DirectoryChange
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities:
+* switch to the specified directory
+
+Collaborators:
+* Directory
+* FileSystem

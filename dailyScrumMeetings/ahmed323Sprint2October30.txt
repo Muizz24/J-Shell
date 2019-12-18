@@ -1,0 +1,11 @@
+
+
+What did I work on in the last three days?
+		- Worked on DirectoryMake and DirectoryList to work with Validator
+		- Started and finished CommandHistory
+
+What do I plan to work in the next three days?
+		- Check exception handling scenarios and debug given code
+
+Am I blocked on anything?
+		- Not anything at the moment.

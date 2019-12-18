@@ -1,0 +1,8 @@
+Class Name: DirectoryStack
+Parent Class(if any):
+Subclasses(if any):
+
+Responsibilities: 
+* Mock File which contains stored directories
+
+Collaborators:

@@ -1,0 +1,11 @@
+Class Name: CommandFind
+Parent Class(if any): Command
+Subclasses(if any): 
+
+Responsibilities:
+* Finds if a specific file or directory with name in quotations
+exists in the given path's directories.
+
+Collaborators:
+* Directory
+* File

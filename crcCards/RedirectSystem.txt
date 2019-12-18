@@ -1,0 +1,12 @@
+Class Name: RedirectSystem
+Parent Class(if any): 
+Subclasses(if any): 
+
+Responsibilities:
+* Splits the input depending on if there is a redirection symbol
+* Appends or overwrites output to OUTFILE
+
+
+Collaborators:
+* File
+* Directory

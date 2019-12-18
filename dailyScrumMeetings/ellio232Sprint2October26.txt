@@ -1,0 +1,12 @@
+What did I work on in the last 3 days?
+	- Created DirectoryStack class and a pop and push methods for it
+	- Commented the code for DirectoryStack
+	- Created DirectoryPush class, though it is incomplete
+
+What do I plan to work on in the next 3 days?
+	- Complete code for DirectoryPush class
+	- Comment DirectoryPush
+	- Do javadocs for DirectoryChange
+
+Am I blocked on anything?
+	- Just need to confirm what values can be accessed for DirectoryPush

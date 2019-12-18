@@ -1,0 +1,13 @@
+What did I work on in the last 3 days?
+	- Implementation of Move class (most cases)
+	- Added comments for Move
+	- Added exception handling for DirectoryChange
+
+What do I plan to work on in the next 3 days?
+	- Finish implementation of mv FILE FILE and CP FILE FILE
+	- Javadocs for Copy and Move classes
+	- Complete testing for classes that still need test cases
+
+Am I blocked on anything?
+	- I do not believe anything is standing in the way of me completing my
+	  responsibilities

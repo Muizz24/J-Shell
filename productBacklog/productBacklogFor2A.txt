@@ -1,0 +1,41 @@
+-------------------------------------------------------|------------|
+                      Backlog Item                     |  Estimate  |
+                                                       |   (hrs)    |
+-------------------------------------------------------|------------|
+As a user, I should be prompted for input until I exit |            |
+the program.                                           |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to navigate directories.   |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to create my own           |            |
+directories.                                           |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to view directory's        |            |
+content.                                               |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to view exactly where      |            |
+the current directory is located.                      |            |
+-------------------------------------------------------|------------|
+As a user I should be able to view the contents of a   |            |
+file(s).                                               |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to store, in a mock file   |            |
+system, an older directory or directories, returning   |            |
+to the most recent directory stored whenever I want.   |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to append or overwrite     |            |
+file(s) with text.                                     |            |
+-------------------------------------------------------|------------|
+As a user, I can view all previous inputs or desired   |            |
+number of recent input(s)                              |            |
+-------------------------------------------------------|------------|
+As a user, I should be able to create a file that      |            |
+contains a given string or output that string.         |            |
+-------------------------------------------------------|------------|
+As a user, to see the documentation for a desired      |     5      |
+command.                                               |            |
+-------------------------------------------------------|------------|
+
+Edits:
+* Fixed grammar. Instead of "Allow user", text was changed to "As user", to be consistent
+* Removed user story "Improve Exception Handling". Not something the user would relate to

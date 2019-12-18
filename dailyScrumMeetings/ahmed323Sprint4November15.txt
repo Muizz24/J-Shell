@@ -1,0 +1,13 @@
+
+
+What did I work on in the last three days?
+		- Fixed and polished code with team.
+		- Added the Redirection System
+		- Finished implementation for L[-R], Find, and tree commands
+
+What do I plan to work in the next four days?
+		- Add Javadocs and comments for tree, L[-R], find and RedirectSystem
+		- Polish code more for better software design
+
+Am I blocked on anything?
+		- Not anything at the moment. Group is at a good pace.

@@ -1,0 +1,11 @@
+Class Name: EchoFile
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities:
+* Takes in a string and a file (optional), modifying the file's content. 
+* prints "STRING" if no file is given
+
+Collaborators:
+* EchoAppend
+* FileSystem

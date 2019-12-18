@@ -1,0 +1,9 @@
+a) What did I work on in the last three days? 
+	- Designed test cases for various commands
+	- Checked that viewFile functions correctly as specified by the additional information given.
+
+b) What do I plan to work in the next three days?
+	- Start coding test cases for various commands
+
+c) Am I blocked on anything?
+	- I am fully capable of completing the current tasks

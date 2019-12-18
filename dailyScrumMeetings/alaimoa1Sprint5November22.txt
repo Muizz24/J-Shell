@@ -1,0 +1,14 @@
+a) What did I work on in the last three days? 
+    - Added in new CRC cards
+    - Finished the test cases for the ViewFile class and EchoFile Class
+    - Found and made corrections to missing exceptions and errors with the program
+
+b) What do I plan to work in the next three days?
+    - Finish CRC cards
+    - Add in any last test cases for the ViewFile class and EchoFile Class
+    - Clean up code so that all requirements involving format are followed
+    - Find any final bugs and fix them
+	
+
+c) Am I blocked on anything?
+	- I am fully capable of completing the current tasks

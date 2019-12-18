@@ -1,0 +1,79 @@
+//Sprint 5 Backlog.
+November 19 to November 26
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I should be able to save my command's result into a file named by my preference.
+b) As a user, I should be able to see all subdirectories in my given directory.
+c) As a user, I should be able to move or copy my directory somewhere else in the file system.   
+d) As a user, I should be able to view the contents of multiple files at the same time.
+e) As a user, I should be able to retrieve a file from a given URL
+f) As a user, I should be able to save my work and access it later, at anytime.
+g) As a user, I should be able to find where my files or directories are located.
+h) As a user, I should be able to view the entire file system in the format of a tree. 
+
+
+Specific tasks to be accomplished:
+a-1. (RedirectSystem) Code test cases
+a-2. (RedirectSystem) Clean and update code as needed
+a-3. (RedirectSystem) Check for missing exceptions 
+b-1. (DirectoryList) Code test cases
+b-2. (DirectoryList) Clean and update code as needed
+b-3. (DirectoryList) Check for missing exceptions 
+c-1. (Copier) Code test cases
+c-2. (Mover) Code test cases
+c-3. (Copier) Clean and update code as needed
+c-4. (Mover) Clean and update code as needed
+c-5. (Copier) Check for missing exceptions 
+c-6. (Mover) Check for missing exceptions 
+d-1. (ViewFile) Code test cases
+d-2. (ViewFile) Clean and update code as needed
+d-3. (ViewFile) Check for missing exceptions
+d-4. (EchoFile) Code test cases
+d-5. (EchoFile) implement EchoFile in the RedirectSystem
+d-6. (EchoFile) Check for missing exceptions
+e-1. (Getter) Code test cases
+e-2. (Getter) Clean and update code as needed
+e-3. (Getter) Check for missing exceptions
+e-4. (Getter) Ensure that the file is created in the current directory
+f-1. (Saver) Code test cases
+f-2. (Saver) Clean and update code as needed
+f-3. (Saver) Check for missing exceptions
+f-4. (Loader) Code test cases
+f-5. (Loader) Clean and update code as needed
+f-6. (Loader) Check for missing exceptions
+f-7. (Loader) Ensure that load only works as the first command and doesn’t print anything to the system.
+f-8. (Validator) Validate that the user inputed an actually path according to their laptop
+g-1. (CommandFind) Code test cases
+g-2. (CommandFind) Clean and update code as needed
+g-3. (CommandFind) Check for missing exceptions
+h-1. (TreeOfFS) Code test cases
+h-2. (TreeOfFS) Clean and update code as needed
+h-3. (TreeofFS) Check for missing exceptions
+
+EDIT:
+f-9. (Validator) Code test cases
+*Test Cases for code from A1 ProductBacklog
+i-1. (CommandHistory) Code and improve test cases
+i-2. (DirectoryPath) Code and improve test cases
+i-3. (DirectoryPop) Code and improve test cases
+i-4. (DirectoryPush) Code and improve test cases
+i-5. (DirectoryStack) Code and improve test cases
+i-6. (Man) Code test cases
+Tasks e-1, f-1, f-4, f-9 are being worked on by all members 
+
+
+
+
+These tasks are assigned as follows:
+
+User: Millan Singh Khurana
+Tasks:  e-1, e-2, e-3, e-4, f-1, f-2, f-3, f-4, f-5, f-6, f-7, f-8, f-9
+
+User: Nicholas Michael Gibson Elliott
+Tasks: c-1, c-2, c-3, c-4, c-5, c-6, i-3, i-4
+
+User: Anthony Alaimo
+Tasks: d-1, d-2, d-3, d-4, d-5, d-6
+
+User: Muizz Uddin Ahmed
+Tasks: a-1, a-2, a-3, b-1, b-2, b-3 g-1, g-2, g-3, h-1, h-2, h-3, i-1, i-2, i-6

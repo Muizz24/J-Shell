@@ -1,0 +1,16 @@
+
+What did I work on in the last three days?
+	- Set up Parser so that it takes the user's input and sends it to Validator.
+	- Created and coded Validator so that it calls the corresponding command
+	according to the user's input.
+	- Coded Validator to make sure that the user's input is correctly formatted
+	and represents a proper path or directory if required.
+	
+
+What do I plan to work in the next three days?
+    - Create and finish Man.
+    - Make sure Validator works properly with exception handling.
+    
+
+Am I blocked on anything?
+	- Not currently blocked anywhere.

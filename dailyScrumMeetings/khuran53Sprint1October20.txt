@@ -1,0 +1,19 @@
+
+What did I work on in the last three days?
+    - Figured out overall design idea with the rest of the team.
+    - Went to Abbas's office hours (as a team) and learned how to improve our
+    design.
+    - Worked on JShell (Scanning and asking user for input).
+    - Finished exit command through JShell.
+    
+
+What do I plan to work in the next three days?
+    - Finish JShell.
+    - Try to see if I can implement exit as its own class, rather than a
+    part of JShell.
+    - Figure out new tasks for sprint 2.
+
+Am I blocked on anything?
+	- Not currently blocked anywhere, just have been a bit busy with other 
+	courses and commitments so I haven't been able to finish everything for
+	this sprint yet.

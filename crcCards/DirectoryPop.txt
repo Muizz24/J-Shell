@@ -1,0 +1,10 @@
+Class Name: DirectoryPop
+Parent Class(if any): Command
+Subclasses(if any):
+
+Responsibilities:
+* Removes the most current directory in the mock file(changing into it).
+
+Collaborators:
+* DirectoryStack
+* Directory

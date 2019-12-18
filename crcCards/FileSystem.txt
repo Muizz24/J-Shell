@@ -1,0 +1,9 @@
+Class Name: FileSystem
+Parent Class(if any):
+Subclasses(if any):
+
+Responsibilities: 
+* Provides a network of all the directories and files
+
+Collaborators:
+* Directory

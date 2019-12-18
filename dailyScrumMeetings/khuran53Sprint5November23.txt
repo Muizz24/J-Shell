@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+	- Small changes to the way that saver and getter function to better 
+	work with the updated commands and file system.
+	
+
+What do I plan to work in the next three days?
+	- Comment Getter and set it up so that it works with Echo.
+	- Comment Saver and test it.
+	- Comment Loader get it to work with the new runCommand system.
+	- Finish JUnit testing for all of the above mentioned methods.
+	- 
+	
+
+Am I blocked on anything?
+	- Not currently blocked anywhere, but I am no longer in the country and
+	will email Abbas regarding my situation.
